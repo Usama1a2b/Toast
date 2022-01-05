@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USAMA/AndroidStudioProjects/CustomizedToast/app/src/main/res/drawable/ic_toast.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/USAMA/AndroidStudioProjects/CustomizedToast/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/USAMA/AndroidStudioProjects/CustomizedToast/app/src/main/res/layout/custom_toast.xml" value="0.22" />
       </map>
     </option>
   </component>
